@@ -1,8 +1,10 @@
+# NUMPAD
+
 You have been tasked with implementing a number pad. A user can enter a quantity via a series of static numerical buttons.
 
 ![numpad](./public/numpad.png)
 
-Use Cases
+## Use Cases
 
 The number pad should be able to support the following use cases:
 
